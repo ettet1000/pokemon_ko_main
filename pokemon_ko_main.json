@@ -15604,5 +15604,110 @@
     ],
     "specie": "왕",
     "generation": "GENERATION_VIII"
+    },
+    {
+    "number": "899",
+    "name": "신비록",
+    "imageUrl": "https://ettet1000.github.io/pokemon_ko_main/images/899.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_ko_main/images/899_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_ko_main/images/899_main.png"
+    },
+    "types": [
+    "Normal",
+    "Psychic"
+    ],
+    "specie": "큰뿔",
+    "generation": "GENERATION_VIII"
+    },
+    {
+    "number": "900",
+    "name": "사마자르",
+    "imageUrl": "https://ettet1000.github.io/pokemon_ko_main/images/900.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_ko_main/images/900_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_ko_main/images/900_main.png"
+    },
+    "types": [
+    "Bug",
+    "Rock"
+    ],
+    "specie": "큰도끼",
+    "generation": "GENERATION_VIII"
+    },
+    {
+    "number": "901",
+    "name": "다투곰",
+    "imageUrl": "https://ettet1000.github.io/pokemon_ko_main/images/901.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_ko_main/images/901_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_ko_main/images/901_main.png"
+    },
+    "types": [
+    "Rock",
+    "Normal"
+    ],
+    "specie": "이탄",
+    "generation": "GENERATION_VIII"
+    },
+    {
+    "number": "902",
+    "name": "대쓰여너",
+    "imageUrl": "https://ettet1000.github.io/pokemon_ko_main/images/902.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_ko_main/images/902_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_ko_main/images/902_main.png"
+    },
+    "types": [
+    "Water",
+    "Ghost"
+    ],
+    "specie": "큰물고기",
+    "generation": "GENERATION_VIII"
+    },
+    {
+    "number": "903",
+    "name": "포푸니크",
+    "imageUrl": "https://ettet1000.github.io/pokemon_ko_main/images/903.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_ko_main/images/903_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_ko_main/images/903_main.png"
+    },
+    "types": [
+    "Fighting",
+    "Poison"
+    ],
+    "specie": "클라이밍",
+    "generation": "GENERATION_VIII"
+    },
+    {
+    "number": "904",
+    "name": "장침바루",
+    "imageUrl": "https://ettet1000.github.io/pokemon_ko_main/images/904.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_ko_main/images/904_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_ko_main/images/904_main.png"
+    },
+    "types": [
+    "Dark",
+    "Poison"
+    ],
+    "specie": "침붕",
+    "generation": "GENERATION_VIII"
+    },
+    {
+    "number": "905",
+    "name": "러브로스",
+    "imageUrl": "https://ettet1000.github.io/pokemon_ko_main/images/905.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_ko_main/images/905_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_ko_main/images/905_main.png"
+    },
+    "types": [
+    "Fairy",
+    "Flying"
+    ],
+    "specie": "애증",
+    "generation": "GENERATION_VIII"
     }
     ]
